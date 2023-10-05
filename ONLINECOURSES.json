@@ -41,5 +41,13 @@
       "platform" : "Google",
       "courseLink" : "https://www.py4e.com/lessons",
       "type" : "free"
-   }
+   },
+
+      {
+         "id" : "7",
+         "courseName" : "Amazon Web Services (AWS) - Zero to Hero",
+         "platform" : "Udemy",
+         "courseLink" : "https://www.udemy.com/course/amazon-web-services-aws-v/",
+         "type" : "free"
+      }
  ] 
